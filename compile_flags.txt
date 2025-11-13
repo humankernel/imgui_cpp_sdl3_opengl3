@@ -1,0 +1,4 @@
+-std=c++11
+-Isrc
+-Iimgui
+-IC:\libs\glfw-3.4\include
